@@ -1,0 +1,2 @@
+# Equivariant-CNN-RNN-Architectures-for-Image-Sequence-Classification
+We compare three architectures for temporally correlated image sequences: a standard CNN→bidirectional RNN pipeline, a variant that inserts a group-equivariant CNN encoder to explicitly model rotation and reflection symmetries, and a spatially aware recurrent design that swaps per-frame MLPs for group-convolutional blocks to improve robustness.
